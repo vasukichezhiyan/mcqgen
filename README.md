@@ -1,6 +1,14 @@
-# SkillAssessment_AI_applciation
+# SkillAssessment_AI_application
 
+Evaluating skill acquisition and understanding after going through tutorials and publications can be a challenge. While these resources are valuable for learning new concepts and technologies, assessing proficiency often requires additional effort.
 
+To unravel this problem by embracing the Power of AI for a Smarter Solution
+
+Tools: 
+
+Visual Studio, Python, Gitlab EE
+Libraries/Packages:
+Open AI, Streamlit, PyPDF, Langchain and Other Python Packages
 
 ## Getting started
 
