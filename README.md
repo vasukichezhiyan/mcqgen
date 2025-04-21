@@ -1,4 +1,4 @@
-# SkillAssessment_Bluestar
+# SkillAssessment_AI_applciation
 
 
 
