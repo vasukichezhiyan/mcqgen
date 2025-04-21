@@ -2,7 +2,10 @@
 
 Evaluating skill acquisition and understanding after going through tutorials and publications can be a challenge. While these resources are valuable for learning new concepts and technologies, assessing proficiency often requires additional effort.
 
-To unravel this problem by embracing the Power of AI for a Smarter Solution
+To unravel this problem by embracing the Power of AI for a Smarter Solution.
+
+Solution: 
+Adaptive quizzes: AI can create individualized quizzes tailored to your understanding level, dynamically adjusting difficulty based on your responses.
 
 Tools: 
 
